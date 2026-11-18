@@ -1,0 +1,547 @@
+[2025-12-04 07:45:08] AJAX login request from ::1
+[2025-12-04 07:45:08] login OK for id=5 mail=angelica@gmail.com tip_usu=2
+[2025-12-04 07:45:08] responding success, redirect=/Integradora1/cliente/
+[2025-12-04 07:50:53] AJAX login request from ::1
+[2025-12-04 07:50:54] login OK for id=5 mail=angelica@gmail.com tip_usu=2
+[2025-12-04 07:50:54] responding success, redirect=/Integradora1/cliente/
+[2025-12-04 07:54:38] AJAX login request from ::1
+[2025-12-04 07:54:38] login OK for id=5 mail=angelica@gmail.com tip_usu=2
+[2025-12-04 07:54:38] responding success, redirect=/Integradora1/cliente/
+[2025-12-04 07:56:30] AJAX login request from ::1
+[2025-12-04 07:56:30] login OK for id=5 mail=angelica@gmail.com tip_usu=2
+[2025-12-04 07:56:30] responding success, redirect=/Integradora1/cliente/
+[2025-12-04 08:03:40] AJAX login request from ::1
+[2025-12-04 08:03:41] login OK for id=5 mail=angelica@gmail.com tip_usu=2
+[2025-12-04 08:03:41] responding success, redirect=/Integradora1/cliente/
+[2025-12-04 08:03:57] AJAX login request from ::1
+[2025-12-04 08:03:57] login OK for id=5 mail=angelica@gmail.com tip_usu=2
+[2025-12-04 08:03:57] responding success, redirect=/Integradora1/cliente/
+[2025-12-04 08:04:14] AJAX login request from ::1
+[2025-12-04 08:04:14] login OK for id=5 mail=angelica@gmail.com tip_usu=2
+[2025-12-04 08:04:14] responding success, redirect=/Integradora1/cliente/
+[2025-12-04 08:07:16] AJAX login request from ::1
+[2025-12-04 08:07:16] login OK for id=5 mail=angelica@gmail.com tip_usu=2
+[2025-12-04 08:07:16] responding success, redirect=/Integradora1/cliente/
+[2025-12-04 08:10:02] AJAX login request from ::1
+[2025-12-04 08:10:02] login OK for id=5 mail=angelica@gmail.com tip_usu=2
+[2025-12-04 08:10:02] responding success, redirect=/Integradora1/cliente/
+[2025-12-04 08:10:38] AJAX login request from ::1
+[2025-12-04 08:10:39] login OK for id=5 mail=angelica@gmail.com tip_usu=2
+[2025-12-04 08:10:39] responding success, redirect=/Integradora1/cliente/
+[2025-12-04 08:11:45] AJAX login request from ::1
+[2025-12-04 08:11:45] password mismatch for user id=1
+[2025-12-04 08:11:59] AJAX login request from ::1
+[2025-12-04 08:11:59] password mismatch for user id=1
+[2025-12-04 08:12:25] AJAX login request from ::1
+[2025-12-04 08:12:25] password mismatch for user id=1
+[2025-12-04 08:13:06] AJAX login request from ::1
+[2025-12-04 08:13:06] login OK for id=5 mail=angelica@gmail.com tip_usu=2
+[2025-12-04 08:13:06] responding success, redirect=/Integradora1/cliente/
+[2025-12-04 08:15:41] AJAX login request from ::1
+[2025-12-04 08:15:41] login OK for id=5 mail=angelica@gmail.com tip_usu=2
+[2025-12-04 08:15:41] responding success, redirect=/Integradora1/cliente/
+[2025-12-04 08:17:29] AJAX login request from ::1
+[2025-12-04 08:17:30] login OK for id=5 mail=angelica@gmail.com tip_usu=2
+[2025-12-04 08:17:30] responding success, redirect=/Integradora1/cliente/
+[2025-12-04 08:18:39] AJAX login request from ::1
+[2025-12-04 08:18:39] login OK for id=5 mail=angelica@gmail.com tip_usu=2
+[2025-12-04 08:18:39] responding success, redirect=/Integradora1/cliente/
+[2025-12-04 08:20:08] AJAX login request from ::1
+[2025-12-04 08:20:08] login OK for id=5 mail=angelica@gmail.com tip_usu=2
+[2025-12-04 08:20:08] responding success, redirect=/Integradora1/cliente/
+[2025-12-04 08:24:10] AJAX login request from ::1
+[2025-12-04 08:24:10] login OK for id=5 mail=angelica@gmail.com tip_usu=2
+[2025-12-04 08:24:10] responding success, redirect=/Integradora1/cliente/
+[2025-12-04 08:32:18] AJAX login request from ::1
+[2025-12-04 08:32:18] password mismatch for user id=2
+[2025-12-04 08:32:25] AJAX login request from ::1
+[2025-12-04 08:32:25] password mismatch for user id=2
+[2025-12-04 08:32:35] AJAX login request from ::1
+[2025-12-04 08:32:35] login OK for id=2 mail=angelica@gmail.com tip_usu=2
+[2025-12-04 08:32:35] responding success, redirect=/Integradora1/cliente/
+[2025-12-04 08:36:10] AJAX login request from ::1
+[2025-12-04 08:36:10] login OK for id=1 mail=admin@clinica.test tip_usu=1
+[2025-12-04 08:36:10] responding success, redirect=/Integradora1/admin/
+[2025-12-04 08:37:32] AJAX login request from ::1
+[2025-12-04 08:37:33] login OK for id=2 mail=angelica@gmail.com tip_usu=2
+[2025-12-04 08:37:33] responding success, redirect=/Integradora1/cliente/
+[2025-12-04 08:42:29] AJAX login request from ::1
+[2025-12-04 08:42:29] login OK for id=1 mail=admin@clinica.test tip_usu=1
+[2025-12-04 08:42:29] responding success, redirect=/Integradora1/admin/
+[2025-12-04 08:45:02] AJAX login request from ::1
+[2025-12-04 08:45:02] login OK for id=1 mail=admin@clinica.test tip_usu=1
+[2025-12-04 08:45:02] responding success, redirect=/Integradora1/admin/
+[2025-12-04 08:49:35] AJAX login request from ::1
+[2025-12-04 08:49:35] login OK for id=2 mail=angelica@gmail.com tip_usu=2
+[2025-12-04 08:49:35] responding success, redirect=/Integradora1/cliente/
+[2025-12-04 08:50:06] AJAX login request from ::1
+[2025-12-04 08:50:06] login OK for id=1 mail=admin@clinica.test tip_usu=1
+[2025-12-04 08:50:06] responding success, redirect=/Integradora1/admin/
+[2025-12-04 08:53:16] AJAX login request from ::1
+[2025-12-04 08:53:16] login OK for id=2 mail=angelica@gmail.com tip_usu=2
+[2025-12-04 08:53:16] responding success, redirect=/Integradora1/cliente/
+[2025-12-04 08:53:52] AJAX login request from ::1
+[2025-12-04 08:53:52] login OK for id=1 mail=admin@clinica.test tip_usu=1
+[2025-12-04 08:53:52] responding success, redirect=/Integradora1/admin/
+[2025-12-04 08:54:19] AJAX login request from ::1
+[2025-12-04 08:54:19] password mismatch for user id=2
+[2025-12-04 08:54:23] AJAX login request from ::1
+[2025-12-04 08:54:23] login OK for id=2 mail=angelica@gmail.com tip_usu=2
+[2025-12-04 08:54:23] responding success, redirect=/Integradora1/cliente/
+[2025-12-04 09:12:50] AJAX login request from ::1
+[2025-12-04 09:12:50] login OK for id=1 mail=admin@clinica.test tip_usu=1
+[2025-12-04 09:12:50] responding success, redirect=/Integradora1/admin/
+[2025-12-04 09:21:41] AJAX login request from ::1
+[2025-12-04 09:21:41] login OK for id=2 mail=angelica@gmail.com tip_usu=2
+[2025-12-04 09:21:41] responding success, redirect=/Integradora1/cliente/
+[2025-12-04 09:22:50] AJAX login request from ::1
+[2025-12-04 09:22:50] login OK for id=1 mail=admin@clinica.test tip_usu=1
+[2025-12-04 09:22:50] responding success, redirect=/Integradora1/admin/
+[2025-12-04 09:24:40] AJAX login request from ::1
+[2025-12-04 09:24:40] login OK for id=2 mail=angelica@gmail.com tip_usu=2
+[2025-12-04 09:24:40] responding success, redirect=/Integradora1/cliente/
+[2025-12-04 09:32:30] AJAX login request from ::1
+[2025-12-04 09:32:30] login OK for id=1 mail=admin@clinica.test tip_usu=1
+[2025-12-04 09:32:30] responding success, redirect=/Integradora1/admin/
+[2025-12-04 14:27:52] AJAX login request from ::1
+[2025-12-04 14:27:53] login OK for id=2 mail=angelica@gmail.com tip_usu=2
+[2025-12-04 14:27:53] responding success, redirect=/Integradora1/cliente/
+[2025-12-04 14:31:08] AJAX login request from ::1
+[2025-12-04 14:31:08] login OK for id=1 mail=admin@clinica.test tip_usu=1
+[2025-12-04 14:31:08] responding success, redirect=/Integradora1/admin/
+[2025-12-04 14:39:30] AJAX login request from ::1
+[2025-12-04 14:39:30] login OK for id=2 mail=angelica@gmail.com tip_usu=2
+[2025-12-04 14:39:30] responding success, redirect=/Integradora1/cliente/
+[2025-12-04 14:43:47] AJAX login request from ::1
+[2025-12-04 14:43:47] login OK for id=2 mail=angelica@gmail.com tip_usu=2
+[2025-12-04 14:43:47] responding success, redirect=/Integradora1/cliente/
+[2025-12-04 14:44:53] AJAX login request from ::1
+[2025-12-04 14:44:53] login OK for id=4 mail=jazmin@gmail.com tip_usu=2
+[2025-12-04 14:44:53] responding success, redirect=/Integradora1/cliente/
+[2025-12-04 14:46:06] AJAX login request from ::1
+[2025-12-04 14:46:06] login OK for id=1 mail=admin@clinica.test tip_usu=1
+[2025-12-04 14:46:06] responding success, redirect=/Integradora1/admin/
+[2025-12-04 15:25:07] AJAX login request from ::1
+[2025-12-04 15:25:08] login OK for id=1 mail=admin@clinica.test tip_usu=1
+[2025-12-04 15:25:08] responding success, redirect=/Integradora1/admin/
+[2025-12-04 15:25:27] AJAX login request from ::1
+[2025-12-04 15:25:27] login OK for id=1 mail=admin@clinica.test tip_usu=1
+[2025-12-04 15:25:27] responding success, redirect=/Integradora1/admin/
+[2025-12-04 15:32:14] AJAX login request from ::1
+[2025-12-04 15:32:14] login OK for id=5 mail=david@gmail.com tip_usu=2
+[2025-12-04 15:32:14] responding success, redirect=/Integradora1/cliente/
+[2025-12-04 15:34:02] AJAX login request from ::1
+[2025-12-04 15:34:02] login OK for id=5 mail=david@gmail.com tip_usu=2
+[2025-12-04 15:34:02] responding success, redirect=/Integradora1/cliente/
+[2025-12-04 15:34:23] AJAX login request from ::1
+[2025-12-04 15:34:24] login OK for id=1 mail=admin@clinica.test tip_usu=1
+[2025-12-04 15:34:24] responding success, redirect=/Integradora1/admin/
+[2025-12-04 16:47:00] AJAX login request from ::1
+[2025-12-04 16:47:00] password mismatch for user id=5
+[2025-12-04 16:47:03] AJAX login request from ::1
+[2025-12-04 16:47:04] login OK for id=5 mail=david@gmail.com tip_usu=2
+[2025-12-04 16:47:04] responding success, redirect=/Integradora1/cliente/
+[2025-12-05 16:24:55] AJAX login request from ::1
+[2025-12-05 16:24:55] login OK for id=1 mail=admin@clinica.test tip_usu=1
+[2025-12-05 16:24:55] responding success, redirect=/Evaluacion3_analisis/admin/
+[2025-12-05 16:25:48] AJAX login request from ::1
+[2025-12-05 16:25:48] login OK for id=2 mail=angelica@gmail.com tip_usu=2
+[2025-12-05 16:25:48] responding success, redirect=/Evaluacion3_analisis/cliente/
+[2025-12-05 16:33:19] AJAX login request from ::1
+[2025-12-05 16:33:19] login OK for id=2 mail=angelica@gmail.com tip_usu=2
+[2025-12-05 16:33:19] responding success, redirect=/Evaluacion3_analisis/cliente/
+[2025-12-05 16:34:12] AJAX login request from ::1
+[2025-12-05 16:34:12] login OK for id=1 mail=admin@clinica.test tip_usu=1
+[2025-12-05 16:34:12] responding success, redirect=/Evaluacion3_analisis/admin/
+[2025-12-05 16:35:12] AJAX login request from ::1
+[2025-12-05 16:35:12] login OK for id=2 mail=angelica@gmail.com tip_usu=2
+[2025-12-05 16:35:12] responding success, redirect=/Evaluacion3_analisis/cliente/
+[2025-12-05 16:37:43] AJAX login request from ::1
+[2025-12-05 16:37:43] login OK for id=2 mail=angelica@gmail.com tip_usu=2
+[2025-12-05 16:37:43] responding success, redirect=/Evaluacion3_analisis/cliente/
+[2025-12-05 16:56:18] AJAX login request from ::1
+[2025-12-05 16:56:18] login OK for id=1 mail=admin@clinica.test tip_usu=1
+[2025-12-05 16:56:18] responding success, redirect=/Evaluacion3_analisis/admin/
+[2025-12-05 17:10:38] AJAX login request from ::1
+[2025-12-05 17:10:38] login OK for id=1 mail=admin@clinica.test tip_usu=1
+[2025-12-05 17:10:38] responding success, redirect=/Evaluacion3_analisis/admin/
+[2025-12-05 20:44:26] AJAX login request from ::1
+[2025-12-05 20:44:26] login OK for id=2 mail=angelica@gmail.com tip_usu=2
+[2025-12-05 20:44:26] responding success, redirect=/Evaluacion3_analisis/cliente/
+[2025-12-05 20:46:18] AJAX login request from ::1
+[2025-12-05 20:46:18] login OK for id=2 mail=angelica@gmail.com tip_usu=2
+[2025-12-05 20:46:18] responding success, redirect=/Evaluacion3_analisis/cliente/
+[2025-12-08 08:01:33] AJAX login request from ::1
+[2025-12-08 08:01:33] password mismatch for user id=2
+[2025-12-08 08:03:10] AJAX login request from ::1
+[2025-12-08 08:03:10] password mismatch for user id=2
+[2025-12-08 08:03:32] AJAX login request from ::1
+[2025-12-08 08:03:32] password mismatch for user id=2
+[2025-12-08 08:03:49] AJAX login request from ::1
+[2025-12-08 08:03:49] password mismatch for user id=1
+[2025-12-08 08:03:50] AJAX login request from ::1
+[2025-12-08 08:03:50] password mismatch for user id=1
+[2025-12-08 08:03:50] AJAX login request from ::1
+[2025-12-08 08:03:50] password mismatch for user id=1
+[2025-12-08 08:03:51] AJAX login request from ::1
+[2025-12-08 08:03:51] password mismatch for user id=1
+[2025-12-08 08:03:51] AJAX login request from ::1
+[2025-12-08 08:03:51] password mismatch for user id=1
+[2025-12-08 08:03:51] AJAX login request from ::1
+[2025-12-08 08:03:51] password mismatch for user id=1
+[2025-12-08 08:03:51] AJAX login request from ::1
+[2025-12-08 08:03:51] password mismatch for user id=1
+[2025-12-08 08:03:51] AJAX login request from ::1
+[2025-12-08 08:03:51] password mismatch for user id=1
+[2025-12-08 08:06:04] AJAX login request from ::1
+[2025-12-08 08:06:04] login OK for id=1 mail=admin@clinica.test tip_usu=1
+[2025-12-08 08:06:04] responding success, redirect=/Evaluacion3_analisis/admin/
+[2025-12-08 08:06:13] AJAX login request from ::1
+[2025-12-08 08:06:13] missing fields: mail='juan.perez@clinica.test'
+[2025-12-08 08:06:17] AJAX login request from ::1
+[2025-12-08 08:06:17] password mismatch for user id=2
+[2025-12-08 08:06:19] AJAX login request from ::1
+[2025-12-08 08:06:19] password mismatch for user id=2
+[2025-12-08 08:06:19] AJAX login request from ::1
+[2025-12-08 08:06:19] password mismatch for user id=2
+[2025-12-08 08:06:19] AJAX login request from ::1
+[2025-12-08 08:06:19] password mismatch for user id=2
+[2025-12-08 08:06:20] AJAX login request from ::1
+[2025-12-08 08:06:20] password mismatch for user id=2
+[2025-12-08 08:06:20] AJAX login request from ::1
+[2025-12-08 08:06:20] password mismatch for user id=2
+[2025-12-08 08:07:26] AJAX login request from ::1
+[2025-12-08 08:07:26] login OK for id=4 mail=pedrito@clinica.test tip_usu=2
+[2025-12-08 08:07:26] responding success, redirect=/Evaluacion3_analisis/cliente/
+[2025-12-08 19:26:40] AJAX login request from ::1
+[2025-12-08 19:26:40] user not found for mail='jazmin@gmail.com'
+[2025-12-08 19:26:46] AJAX login request from ::1
+[2025-12-08 19:26:46] user not found for mail='jazmin@gmail.com'
+[2025-12-08 19:26:46] AJAX login request from ::1
+[2025-12-08 19:26:46] user not found for mail='jazmin@gmail.com'
+[2025-12-08 19:26:54] AJAX login request from ::1
+[2025-12-08 19:26:54] login OK for id=5 mail=jazmin@clinica.test tip_usu=2
+[2025-12-08 19:26:54] responding success, redirect=/Evaluacion3_analisis/cliente/
+[2025-12-08 19:35:55] AJAX login request from ::1
+[2025-12-08 19:35:55] user not found for mail='angelica@gmail.com'
+[2025-12-08 19:36:06] AJAX login request from ::1
+[2025-12-08 19:36:06] login OK for id=5 mail=jazmin@clinica.test tip_usu=2
+[2025-12-08 19:36:06] responding success, redirect=/Evaluacion3_analisis/cliente/
+[2025-12-08 20:34:46] AJAX login request from ::1
+[2025-12-08 20:34:46] login OK for id=1 mail=admin@clinica.test tip_usu=1
+[2025-12-08 20:34:46] responding success, redirect=/Evaluacion3_analisis/admin/
+[2025-12-08 20:35:10] AJAX login request from ::1
+[2025-12-08 20:35:10] missing fields: mail='jazmin@clinica.test'
+[2025-12-08 20:35:16] AJAX login request from ::1
+[2025-12-08 20:35:16] login OK for id=5 mail=jazmin@clinica.test tip_usu=2
+[2025-12-08 20:35:16] responding success, redirect=/Evaluacion3_analisis/cliente/
+[2025-12-08 21:12:45] AJAX login request from ::1
+[2025-12-08 21:12:45] login OK for id=6 mail=ana@gmail.com tip_usu=2
+[2025-12-08 21:12:45] responding success, redirect=/Evaluacion3_analisis/cliente/
+[2026-01-15 20:54:42] AJAX login request from ::1
+[2026-01-15 20:54:43] login OK for id=1 mail=admin@clinica.test tip_usu=1
+[2026-01-15 20:54:43] responding success, redirect=/Evaluacion3_analisis/admin/
+[2026-01-15 20:55:15] AJAX login request from ::1
+[2026-01-15 20:55:15] login OK for id=5 mail=jazmin@clinica.test tip_usu=2
+[2026-01-15 20:55:15] responding success, redirect=/Evaluacion3_analisis/cliente/
+[2026-01-15 20:59:23] AJAX login request from ::1
+[2026-01-15 20:59:23] user not found for mail='angelica@gmail.com'
+[2026-01-15 20:59:34] AJAX login request from ::1
+[2026-01-15 20:59:34] login OK for id=1 mail=admin@clinica.test tip_usu=1
+[2026-01-15 20:59:34] responding success, redirect=/Evaluacion3_analisis/admin/
+[2026-01-15 20:59:55] AJAX login request from ::1
+[2026-01-15 20:59:55] login OK for id=5 mail=jazmin@clinica.test tip_usu=2
+[2026-01-15 20:59:55] responding success, redirect=/Evaluacion3_analisis/cliente/
+[2026-01-26 17:07:55] AJAX login request from ::1
+[2026-01-26 17:07:55] login OK for id=7 mail=jimenasalazar@clinica.test tip_usu=2
+[2026-01-26 17:07:55] responding success, redirect=/Evaluacion3_analisis/cliente/
+[2026-01-26 17:12:13] AJAX login request from ::1
+[2026-01-26 17:12:13] login OK for id=1 mail=admin@clinica.test tip_usu=1
+[2026-01-26 17:12:13] responding success, redirect=/Evaluacion3_analisis/admin/
+[2026-02-09 07:26:14] AJAX login request from ::1
+[2026-02-09 07:26:14] login OK for id=8 mail=paola@clinica.test tip_usu=2
+[2026-02-09 07:26:14] responding success, redirect=/Evaluacion3_analisis/cliente/
+[2026-02-09 07:29:05] AJAX login request from ::1
+[2026-02-09 07:29:05] login OK for id=1 mail=admin@clinica.test tip_usu=1
+[2026-02-09 07:29:05] responding success, redirect=/Evaluacion3_analisis/admin/
+[2026-03-01 21:42:18] AJAX login request from ::1
+[2026-03-01 21:42:18] user not found for mail='angelica@gmail.com'
+[2026-03-01 21:42:26] AJAX login request from ::1
+[2026-03-01 21:42:26] user not found for mail='angelica@gmail.com'
+[2026-03-01 21:42:28] AJAX login request from ::1
+[2026-03-01 21:42:28] user not found for mail='angelica@gmail.com'
+[2026-03-01 21:42:29] AJAX login request from ::1
+[2026-03-01 21:42:29] user not found for mail='angelica@gmail.com'
+[2026-03-01 21:42:30] AJAX login request from ::1
+[2026-03-01 21:42:30] user not found for mail='angelica@gmail.com'
+[2026-03-01 21:42:35] AJAX login request from ::1
+[2026-03-01 21:42:35] user not found for mail='angelica12@gmail.com'
+[2026-03-01 21:42:53] AJAX login request from ::1
+[2026-03-01 21:42:53] login OK for id=9 mail=agelica12@gmail.com tip_usu=2
+[2026-03-01 21:42:53] responding success, redirect=/Evaluacion3_analisis/cliente/
+[2026-03-01 22:35:02] AJAX login request from ::1
+[2026-03-01 22:35:02] login OK for id=1 mail=admin@clinica.test tip_usu=1
+[2026-03-01 22:35:02] responding success, redirect=/proyecto_analisis_chido_chidote/admin/
+[2026-03-01 23:18:48] AJAX login request from ::1
+[2026-03-01 23:18:48] login OK for id=9 mail=agelica12@gmail.com tip_usu=2
+[2026-03-01 23:18:48] responding success, redirect=/proyecto_analisis_chido_chidote/cliente/
+[2026-03-01 23:24:42] AJAX login request from ::1
+[2026-03-01 23:24:42] login OK for id=9 mail=agelica12@gmail.com tip_usu=2
+[2026-03-01 23:24:42] responding success, redirect=/proyecto_analisis_chido_chidote/cliente/
+[2026-03-01 23:26:25] AJAX login request from ::1
+[2026-03-01 23:26:25] login OK for id=1 mail=admin@clinica.test tip_usu=1
+[2026-03-01 23:26:25] responding success, redirect=/proyecto_analisis_chido_chidote/admin/
+[2026-03-04 20:50:21] AJAX login request from ::1
+[2026-03-04 20:50:21] login OK for id=1 mail=admin@clinica.test tip_usu=1
+[2026-03-04 20:50:21] responding success, redirect=/proyecto_analisis_chido_chidote/admin/
+[2026-03-05 19:47:22] AJAX login request from ::1
+[2026-03-05 19:47:22] login OK for id=1 mail=admin@clinica.test tip_usu=1
+[2026-03-05 19:47:22] responding success, redirect=/Integradora_chidisimo/proyecto_analisis_chido_chidote/admin/
+[2026-03-05 20:22:17] AJAX login request from ::1
+[2026-03-05 20:22:17] missing fields: mail='admin@clinica.test'
+[2026-03-05 20:22:21] AJAX login request from ::1
+[2026-03-05 20:22:21] login OK for id=1 mail=admin@clinica.test tip_usu=1
+[2026-03-05 20:22:21] responding success, redirect=/Integradora_chidisimo/proyecto_analisis_chido_chidote/admin/
+[2026-03-09 16:26:31] AJAX login request from ::1
+[2026-03-09 16:26:31] user not found for mail='2024310020@uteq.edu.mx'
+[2026-03-09 16:26:32] AJAX login request from ::1
+[2026-03-09 16:26:32] user not found for mail='2024310020@uteq.edu.mx'
+[2026-03-09 16:26:33] AJAX login request from ::1
+[2026-03-09 16:26:33] user not found for mail='2024310020@uteq.edu.mx'
+[2026-03-09 16:26:33] AJAX login request from ::1
+[2026-03-09 16:26:33] user not found for mail='2024310020@uteq.edu.mx'
+[2026-03-09 16:26:33] AJAX login request from ::1
+[2026-03-09 16:26:33] user not found for mail='2024310020@uteq.edu.mx'
+[2026-03-09 16:26:33] AJAX login request from ::1
+[2026-03-09 16:26:33] user not found for mail='2024310020@uteq.edu.mx'
+[2026-03-09 16:50:32] AJAX login request from ::1
+[2026-03-09 16:50:32] login OK for id=10 mail=Dani12@gmail.com tip_usu=2
+[2026-03-09 16:50:32] responding success, redirect=/Integradora_chidisimo/proyecto_analisis_chido_chidote/cliente/
+[2026-03-09 17:03:43] AJAX login request from ::1
+[2026-03-09 17:03:43] missing fields: mail=''
+[2026-03-09 17:03:44] AJAX login request from ::1
+[2026-03-09 17:03:44] missing fields: mail=''
+[2026-03-09 17:05:13] AJAX login request from ::1
+[2026-03-09 17:05:13] password mismatch for user id=12
+[2026-03-09 17:05:16] AJAX login request from ::1
+[2026-03-09 17:05:16] missing fields: mail='Dani12@gmail.com'
+[2026-03-09 17:05:19] AJAX login request from ::1
+[2026-03-09 17:05:19] missing fields: mail=''
+[2026-03-09 17:05:19] AJAX login request from ::1
+[2026-03-09 17:05:19] missing fields: mail=''
+[2026-03-09 17:05:19] AJAX login request from ::1
+[2026-03-09 17:05:19] missing fields: mail=''
+[2026-03-09 17:05:25] AJAX login request from ::1
+[2026-03-09 17:05:25] user not found for mail='2024310020@uteq.edu.mx'
+[2026-03-09 17:05:25] AJAX login request from ::1
+[2026-03-09 17:05:25] user not found for mail='2024310020@uteq.edu.mx'
+[2026-03-09 17:05:26] AJAX login request from ::1
+[2026-03-09 17:05:26] user not found for mail='2024310020@uteq.edu.mx'
+[2026-03-09 17:05:26] AJAX login request from ::1
+[2026-03-09 17:05:26] user not found for mail='2024310020@uteq.edu.mx'
+[2026-03-09 17:05:26] AJAX login request from ::1
+[2026-03-09 17:05:26] user not found for mail='2024310020@uteq.edu.mx'
+[2026-03-09 17:05:26] AJAX login request from ::1
+[2026-03-09 17:05:26] user not found for mail='2024310020@uteq.edu.mx'
+[2026-03-09 17:05:26] AJAX login request from ::1
+[2026-03-09 17:05:26] user not found for mail='2024310020@uteq.edu.mx'
+[2026-03-09 17:05:26] AJAX login request from ::1
+[2026-03-09 17:05:26] user not found for mail='2024310020@uteq.edu.mx'
+[2026-03-09 17:05:27] AJAX login request from ::1
+[2026-03-09 17:05:27] user not found for mail='2024310020@uteq.edu.mx'
+[2026-03-09 17:05:48] AJAX login request from ::1
+[2026-03-09 17:05:48] login OK for id=12 mail=Dani12@gmail.com tip_usu=2
+[2026-03-09 17:05:48] responding success, redirect=/Integradora_chidisimo/proyecto_analisis_chido_chidote/cliente/
+[2026-03-09 17:11:03] AJAX login request from ::1
+[2026-03-09 17:11:03] login OK for id=13 mail=Dani12@gmail.com tip_usu=2
+[2026-03-09 17:11:03] responding success, redirect=/Integradora_chidisimo/proyecto_analisis_chido_chidote/cliente/
+[2026-03-09 17:13:05] AJAX login request from ::1
+[2026-03-09 17:13:05] login OK for id=14 mail=Dani12@gmail.com tip_usu=2
+[2026-03-09 17:13:05] responding success, redirect=/Integradora_chidisimo/proyecto_analisis_chido_chidote/cliente/
+[2026-03-09 17:17:34] AJAX login request from ::1
+[2026-03-09 17:17:34] login OK for id=15 mail=Dani12@gmail.com tip_usu=2
+[2026-03-09 17:17:34] responding success, redirect=/Integradora_chidisimo/proyecto_analisis_chido_chidote/cliente/
+[2026-03-09 17:18:37] AJAX login request from ::1
+[2026-03-09 17:18:37] login OK for id=16 mail=Dani12@gmail.com tip_usu=2
+[2026-03-09 17:18:37] responding success, redirect=/Integradora_chidisimo/proyecto_analisis_chido_chidote/cliente/
+[2026-03-09 17:23:06] AJAX login request from ::1
+[2026-03-09 17:23:06] login OK for id=16 mail=Dani12@gmail.com tip_usu=2
+[2026-03-09 17:23:06] responding success, redirect=/Integradora_chidisimo/proyecto_analisis_chido_chidote/cliente/
+[2026-03-09 17:24:37] AJAX login request from ::1
+[2026-03-09 17:24:37] login OK for id=1 mail=admin@clinica.test tip_usu=1
+[2026-03-09 17:24:37] responding success, redirect=/Integradora_chidisimo/proyecto_analisis_chido_chidote/admin/
+[2026-03-09 17:28:14] AJAX login request from ::1
+[2026-03-09 17:28:14] login OK for id=16 mail=Dani12@gmail.com tip_usu=2
+[2026-03-09 17:28:14] responding success, redirect=/Integradora_chidisimo/proyecto_analisis_chido_chidote/cliente/
+[2026-03-11 20:33:46] AJAX login request from ::1
+[2026-03-11 20:33:46] user not found for mail='Dani12@gmail.com'
+[2026-03-11 20:33:58] AJAX login request from ::1
+[2026-03-11 20:33:58] user not found for mail='Dani12@gmail.com'
+[2026-03-11 20:33:59] AJAX login request from ::1
+[2026-03-11 20:33:59] user not found for mail='Dani12@gmail.com'
+[2026-03-11 20:33:59] AJAX login request from ::1
+[2026-03-11 20:33:59] user not found for mail='Dani12@gmail.com'
+[2026-03-11 20:34:16] AJAX login request from ::1
+[2026-03-11 20:34:16] login OK for id=18 mail=Dani12@gmail.com tip_usu=2
+[2026-03-11 20:34:16] responding success, redirect=/Integradora_chidisimo/proyecto_analisis_chido_chidote/cliente/
+[2026-03-11 20:36:41] AJAX login request from ::1
+[2026-03-11 20:36:41] user not found for mail='Roman Torres'
+[2026-03-11 20:37:02] AJAX login request from ::1
+[2026-03-11 20:37:02] login OK for id=18 mail=Dani12@gmail.com tip_usu=2
+[2026-03-11 20:37:02] responding success, redirect=/Integradora_chidisimo/proyecto_analisis_chido_chidote/cliente/
+[2026-03-11 20:38:18] AJAX login request from ::1
+[2026-03-11 20:38:18] login OK for id=18 mail=Dani12@gmail.com tip_usu=2
+[2026-03-11 20:38:18] responding success, redirect=/Integradora_chidisimo/proyecto_analisis_chido_chidote/cliente/
+[2026-03-11 20:53:11] AJAX login request from 127.0.0.1
+[2026-03-11 20:53:11] login OK for id=19 mail=Dani12@gmail.com tip_usu=2
+[2026-03-11 20:53:11] responding success, redirect=/Integradora_chidisimo/proyecto_analisis_chido_chidote/cliente/
+[2026-03-11 21:02:00] AJAX login request from ::1
+[2026-03-11 21:02:00] user not found for mail='admin@clinica.test'
+[2026-03-11 21:02:03] AJAX login request from ::1
+[2026-03-11 21:02:03] user not found for mail='admin@clinica.test'
+[2026-03-11 21:02:04] AJAX login request from ::1
+[2026-03-11 21:02:04] user not found for mail='admin@clinica.test'
+[2026-03-11 21:02:04] AJAX login request from ::1
+[2026-03-11 21:02:04] user not found for mail='admin@clinica.test'
+[2026-03-11 21:02:04] AJAX login request from ::1
+[2026-03-11 21:02:04] user not found for mail='admin@clinica.test'
+[2026-03-11 21:02:04] AJAX login request from ::1
+[2026-03-11 21:02:04] user not found for mail='admin@clinica.test'
+[2026-03-11 21:02:04] AJAX login request from ::1
+[2026-03-11 21:02:04] user not found for mail='admin@clinica.test'
+[2026-03-11 21:02:04] AJAX login request from ::1
+[2026-03-11 21:02:04] user not found for mail='admin@clinica.test'
+[2026-03-11 21:02:04] AJAX login request from ::1
+[2026-03-11 21:02:04] user not found for mail='admin@clinica.test'
+[2026-03-11 21:02:04] AJAX login request from ::1
+[2026-03-11 21:02:04] user not found for mail='admin@clinica.test'
+[2026-03-11 21:02:05] AJAX login request from ::1
+[2026-03-11 21:02:05] user not found for mail='admin@clinica.test'
+[2026-03-11 21:02:07] AJAX login request from ::1
+[2026-03-11 21:02:07] user not found for mail='admin@clinica.test'
+[2026-03-11 21:02:07] AJAX login request from ::1
+[2026-03-11 21:02:07] user not found for mail='admin@clinica.test'
+[2026-03-11 21:02:08] AJAX login request from ::1
+[2026-03-11 21:02:08] user not found for mail='admin@clinica.test'
+[2026-03-11 21:02:08] AJAX login request from ::1
+[2026-03-11 21:02:08] user not found for mail='admin@clinica.test'
+[2026-03-11 21:02:08] AJAX login request from ::1
+[2026-03-11 21:02:08] user not found for mail='admin@clinica.test'
+[2026-03-11 21:02:08] AJAX login request from ::1
+[2026-03-11 21:02:08] user not found for mail='admin@clinica.test'
+[2026-03-11 21:02:19] AJAX login request from ::1
+[2026-03-11 21:02:19] login OK for id=19 mail=Dani12@gmail.com tip_usu=2
+[2026-03-11 21:02:19] responding success, redirect=/Integradora_chidisimo/proyecto_analisis_chido_chidote/cliente/
+[2026-03-11 21:02:29] AJAX login request from ::1
+[2026-03-11 21:02:29] user not found for mail='admin@clinica.test'
+[2026-03-11 21:02:35] AJAX login request from ::1
+[2026-03-11 21:02:35] user not found for mail='admin@clinica.test'
+[2026-03-11 21:02:36] AJAX login request from ::1
+[2026-03-11 21:02:36] user not found for mail='admin@clinica.test'
+[2026-03-11 21:02:36] AJAX login request from ::1
+[2026-03-11 21:02:36] user not found for mail='admin@clinica.test'
+[2026-03-11 21:02:36] AJAX login request from ::1
+[2026-03-11 21:02:36] user not found for mail='admin@clinica.test'
+[2026-03-11 21:02:36] AJAX login request from ::1
+[2026-03-11 21:02:36] user not found for mail='admin@clinica.test'
+[2026-03-11 21:02:37] AJAX login request from ::1
+[2026-03-11 21:02:37] user not found for mail='admin@clinica.test'
+[2026-03-11 21:04:37] AJAX login request from ::1
+[2026-03-11 21:04:37] user not found for mail='admin@clinica.test'
+[2026-03-11 21:04:37] AJAX login request from ::1
+[2026-03-11 21:04:37] user not found for mail='admin@clinica.test'
+[2026-03-11 21:04:37] AJAX login request from ::1
+[2026-03-11 21:04:37] user not found for mail='admin@clinica.test'
+[2026-03-11 21:04:42] AJAX login request from ::1
+[2026-03-11 21:04:42] user not found for mail='admin@clinica.test'
+[2026-03-11 21:04:43] AJAX login request from ::1
+[2026-03-11 21:04:43] user not found for mail='admin@clinica.test'
+[2026-03-11 21:04:43] AJAX login request from ::1
+[2026-03-11 21:04:43] user not found for mail='admin@clinica.test'
+[2026-03-11 21:04:43] AJAX login request from ::1
+[2026-03-11 21:04:43] user not found for mail='admin@clinica.test'
+[2026-03-11 21:20:56] AJAX login request from 127.0.0.1
+[2026-03-11 21:20:56] user not found for mail='admin@clinica.test'
+[2026-03-11 21:21:36] AJAX login request from 127.0.0.1
+[2026-03-11 21:21:36] user not found for mail='admin@clinica.test'
+[2026-03-11 21:21:42] AJAX login request from 127.0.0.1
+[2026-03-11 21:21:42] user not found for mail='admin@clinica.test'
+[2026-03-12 18:43:18] AJAX login request from ::1
+[2026-03-12 18:43:18] user not found for mail='admin@clinica.test'
+[2026-03-12 18:44:06] AJAX login request from ::1
+[2026-03-12 18:44:06] user not found for mail='admin@clinica.test'
+[2026-03-12 18:44:14] AJAX login request from ::1
+[2026-03-12 18:44:14] user not found for mail='admin@clinica.test'
+[2026-03-12 18:44:33] AJAX login request from ::1
+[2026-03-12 18:44:33] user not found for mail='admin@clinica.test'
+[2026-03-12 18:44:34] AJAX login request from ::1
+[2026-03-12 18:44:34] user not found for mail='admin@clinica.test'
+[2026-03-12 18:44:35] AJAX login request from ::1
+[2026-03-12 18:44:35] user not found for mail='admin@clinica.test'
+[2026-03-12 18:44:35] AJAX login request from ::1
+[2026-03-12 18:44:35] user not found for mail='admin@clinica.test'
+[2026-03-12 18:44:35] AJAX login request from ::1
+[2026-03-12 18:44:35] user not found for mail='admin@clinica.test'
+[2026-03-12 18:45:05] AJAX login request from ::1
+[2026-03-12 18:45:05] user not found for mail='admin@clinica.test'
+[2026-03-12 18:45:44] AJAX login request from ::1
+[2026-03-12 18:45:44] user not found for mail='admin@clinica.test'
+[2026-03-12 18:51:23] AJAX login request from ::1
+[2026-03-12 18:51:23] login OK for id=20 mail=admin@clinica.test tip_usu=1
+[2026-03-12 18:51:23] responding success, redirect=/Integradora_chidisimo/proyecto_analisis_chido_chidote/admin/
+[2026-03-12 19:09:08] AJAX login request from ::1
+[2026-03-12 19:09:08] login OK for id=22 mail=admin@clinica.test tip_usu=1
+[2026-03-12 19:09:08] responding success, redirect=/Integradora_chidisimo/proyecto_analisis_chido_chidote/admin/
+[2026-03-12 19:10:45] AJAX login request from ::1
+[2026-03-12 19:10:45] login OK for id=23 mail=Dani12@gmail.com tip_usu=2
+[2026-03-12 19:10:45] responding success, redirect=/Integradora_chidisimo/proyecto_analisis_chido_chidote/cliente/
+[2026-03-12 19:16:02] AJAX login request from ::1
+[2026-03-12 19:16:02] login OK for id=22 mail=admin@clinica.test tip_usu=1
+[2026-03-12 19:16:02] responding success, redirect=/Integradora_chidisimo/proyecto_analisis_chido_chidote/admin/
+[2026-03-12 19:23:57] AJAX login request from ::1
+[2026-03-12 19:23:57] login OK for id=22 mail=admin@clinica.test tip_usu=1
+[2026-03-12 19:23:57] responding success, redirect=/Integradora_chidisimo/proyecto_analisis_chido_chidote/admin/
+[2026-03-12 19:24:11] AJAX login request from ::1
+[2026-03-12 19:24:11] login OK for id=22 mail=admin@clinica.test tip_usu=1
+[2026-03-12 19:24:11] responding success, redirect=/Integradora_chidisimo/proyecto_analisis_chido_chidote/admin/
+[2026-03-12 19:33:00] AJAX login request from ::1
+[2026-03-12 19:33:00] login OK for id=22 mail=admin@clinica.test tip_usu=1
+[2026-03-12 19:33:00] responding success, redirect=/Integradora_chidisimo/proyecto_analisis_chido_chidote/admin/
+[2026-03-12 20:54:39] AJAX login request from ::1
+[2026-03-12 20:54:39] login OK for id=23 mail=Dani12@gmail.com tip_usu=2
+[2026-03-12 20:54:39] responding success, redirect=/Integradora_chidisimo/proyecto_analisis_chido_chidote/cliente/
+[2026-03-23 16:22:14] AJAX login request from ::1
+[2026-03-23 16:22:15] login OK for id=22 mail=admin@clinica.test tip_usu=1
+[2026-03-23 16:22:15] responding success, redirect=/Integradora_chidisimo/proyecto_analisis_chido_chidote/admin/
+[2026-03-23 16:25:22] AJAX login request from ::1
+[2026-03-23 16:25:22] login OK for id=22 mail=admin@clinica.test tip_usu=1
+[2026-03-23 16:25:22] responding success, redirect=/Integradora_chidisimo/proyecto_analisis_chido_chidote/admin/
+[2026-03-23 16:26:25] AJAX login request from ::1
+[2026-03-23 16:26:25] login OK for id=23 mail=Dani12@gmail.com tip_usu=2
+[2026-03-23 16:26:25] responding success, redirect=/Integradora_chidisimo/proyecto_analisis_chido_chidote/cliente/
+[2026-03-23 16:28:52] AJAX login request from ::1
+[2026-03-23 16:28:52] login OK for id=23 mail=Dani12@gmail.com tip_usu=2
+[2026-03-23 16:28:52] responding success, redirect=/Integradora_chidisimo/proyecto_analisis_chido_chidote/cliente/
+[2026-03-23 16:42:39] AJAX login request from ::1
+[2026-03-23 16:42:39] login OK for id=22 mail=admin@clinica.test tip_usu=1
+[2026-03-23 16:42:39] responding success, redirect=/Integradora_chidisimo/proyecto_analisis_chido_chidote/admin/
+[2026-03-23 16:52:55] AJAX login request from ::1
+[2026-03-23 16:52:55] login OK for id=22 mail=admin@clinica.test tip_usu=1
+[2026-03-23 16:52:55] responding success, redirect=/Integradora_chidisimo/proyecto_analisis_chido_chidote/admin/
+[2026-03-23 16:53:14] AJAX login request from ::1
+[2026-03-23 16:53:14] login OK for id=23 mail=Dani12@gmail.com tip_usu=2
+[2026-03-23 16:53:14] responding success, redirect=/Integradora_chidisimo/proyecto_analisis_chido_chidote/cliente/
+[2026-03-23 17:06:23] AJAX login request from ::1
+[2026-03-23 17:06:23] login OK for id=23 mail=Dani12@gmail.com tip_usu=2
+[2026-03-23 17:06:23] responding success, redirect=/Integradora_chidisimo/proyecto_analisis_chido_chidote/cliente/
+[2026-03-23 17:21:59] AJAX login request from ::1
+[2026-03-23 17:21:59] login OK for id=22 mail=admin@clinica.test tip_usu=1
+[2026-03-23 17:21:59] responding success, redirect=/Integradora_chidisimo/proyecto_analisis_chido_chidote/admin/
+[2026-03-25 20:17:29] AJAX login request from ::1
+[2026-03-25 20:17:29] password mismatch for user id=23
+[2026-03-25 20:17:34] AJAX login request from ::1
+[2026-03-25 20:17:34] login OK for id=23 mail=Dani12@gmail.com tip_usu=2
+[2026-03-25 20:17:34] responding success, redirect=/Integradora_chidisimo/proyecto_analisis_chido_chidote/cliente/
+[2026-03-25 20:25:21] AJAX login request from ::1
+[2026-03-25 20:25:21] login OK for id=22 mail=admin@clinica.test tip_usu=1
+[2026-03-25 20:25:21] responding success, redirect=/Integradora_chidisimo/proyecto_analisis_chido_chidote/admin/
