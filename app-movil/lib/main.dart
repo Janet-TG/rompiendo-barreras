@@ -1,64 +1,40 @@
+// Punto de entrada de la app Discapacidad sin Barreras.
+// Al iniciar verifica si hay sesión guardada para no pedir login cada vez.
 import 'package:flutter/material.dart';
-import 'services/auth_service.dart';
+import 'screens/dashboard_screen.dart';
 import 'screens/login_screen.dart';
-import 'screens/package_screen.dart';
+import 'theme/app_theme.dart';
+import 'utils/storage.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(const DiscapacidadApp());
 }
 
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+class DiscapacidadApp extends StatelessWidget {
+  const DiscapacidadApp({super.key});
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Paquetería',
+      title: 'Discapacidad sin Barreras',
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-        scaffoldBackgroundColor: Colors.grey[50],
-        visualDensity: VisualDensity.adaptivePlatformDensity,
-        cardTheme: CardThemeData(
-          elevation: 4,
-          margin: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
-          shape:
-              RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
-        ),
-        elevatedButtonTheme: ElevatedButtonThemeData(
-          style: ElevatedButton.styleFrom(
-            shape:
-                RoundedRectangleBorder(borderRadius: BorderRadius.circular(8)),
-            padding: const EdgeInsets.symmetric(vertical: 12, horizontal: 18),
-          ),
-        ),
-        inputDecorationTheme: InputDecorationTheme(
-          border: OutlineInputBorder(borderRadius: BorderRadius.circular(8)),
-          contentPadding:
-              const EdgeInsets.symmetric(horizontal: 12, vertical: 12),
-        ),
-      ),
+      theme: AppTheme.theme,
+      // Decide la pantalla inicial según si ya hay sesión guardada
       home: FutureBuilder<bool>(
-        future:
-            AuthService().isLoggedIn(), // Llama al servicio de autenticación
+        future: AppStorage.haySesion(),
         builder: (context, snapshot) {
-          // Mientras se espera la respuesta del future, mostramos un indicador de carga
+          // Pantalla de carga mientras se verifica la sesión
           if (snapshot.connectionState == ConnectionState.waiting) {
             return const Scaffold(
-              body: Center(child: CircularProgressIndicator()),
+              backgroundColor: AppColors.background,
+              body: Center(
+                child: CircularProgressIndicator(color: AppColors.primary),
+              ),
             );
           }
 
-          // Si hay un error al verificar el login
-          if (snapshot.hasError) {
-            return Scaffold(
-              body: Center(child: Text('Error: ${snapshot.error}')),
-            );
-          }
-
-          // Cuando ya tenemos el resultado, mostramos la pantalla correspondiente
-          bool isLoggedIn = snapshot.data ?? false;
-          return isLoggedIn ? const PackagesScreen() : const LoginScreen();
+          final haySesion = snapshot.data ?? false;
+          return haySesion ? const DashboardScreen() : const LoginScreen();
         },
       ),
     );
